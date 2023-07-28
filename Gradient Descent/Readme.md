@@ -1,1 +1,1 @@
-This Contains Files realated to Gradient Descent.
+This Contains Files related to Gradient Descent.
